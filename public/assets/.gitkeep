@@ -1,0 +1,13 @@
+public/
+└── assets/
+    ├── images/
+    │   └── logo.png
+    ├── css/
+    │   └── styles.css
+    ├── js/
+    │   └── scripts.js
+    ├── fonts/
+    │   └── roboto.woff2
+    └── media/
+        ├── video.mp4
+        └── audio.mp3
