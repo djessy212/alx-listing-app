@@ -1,0 +1,26 @@
+<!-- Page layout using Grid -->
+<div class="grid grid-cols-1 md:grid-cols-4 min-h-screen">
+  
+  <!-- Sidebar -->
+  <aside class="bg-gray-800 text-white md:col-span-1 p-4">
+    Sidebar
+  </aside>
+  
+  <!-- Main Content -->
+  <main class="bg-white md:col-span-3 p-6">
+    
+    <!-- Flex inside a component -->
+    <div class="flex justify-between items-center mb-4">
+      <h1 class="text-2xl font-bold">Dashboard</h1>
+      <button class="bg-blue-600 text-white px-4 py-2 rounded">Add Item</button>
+    </div>
+    
+    <!-- Grid for items -->
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+      <div class="bg-gray-100 p-4 rounded">Card 1</div>
+      <div class="bg-gray-100 p-4 rounded">Card 2</div>
+      <div class="bg-gray-100 p-4 rounded">Card 3</div>
+    </div>
+
+  </main>
+</div>
