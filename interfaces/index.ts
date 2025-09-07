@@ -1,1 +1,13 @@
 interfaces/index.ts
+v
+---
+
+### ✅ That's it!
+
+You’ve now created a complete `README.md` file for your project.  
+Let me know if you want to:
+- Add badges (e.g., tech stack, license, deployment status)
+- Include screenshots or a demo link
+- Customize this for a team README
+
+Happy coding!
