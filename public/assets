@@ -1,9 +1,0 @@
-├── public/
-│   └── assets/
-│       ├── images/
-│       │   ├── placeholder-property.jpg
-│       │   └── hero-banner.jpg
-│       └── icons/
-│           ├── search.svg
-│           ├── location.svg
-│           └── arrow-right.svg
